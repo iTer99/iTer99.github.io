@@ -25,10 +25,10 @@ Author: iTer99 <hoan.nguyen.16999@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate
 Filename: /debs/com.iter99.zingvip_1.2_iphoneos-arm.deb
-Size: 2174
-MD5sum: 9b1311507536d5cbe09f809e3e79d0fa
-SHA1: 5e8563d7b3d44b1b2bda4361e13740e6120ec10d
-SHA256: ee04fb98955eeb5216031aea0b0ac7167b3506fc62335c4d10ecc7964ac1ea0d
+Size: 2974
+MD5sum: 0d45f093e2c9ac2e01fdb67335359826
+SHA1: c027b68f52a7189e4cda1f2f61cad8fd914ce906
+SHA256: 2e9a85780853286deeddd8c23647141a01b8c6ea908805bc3f9d04f841e05e57
 Depiction: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.zingvip/
 Icon: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.zingvip/DebIcon.png
 
@@ -42,10 +42,10 @@ Author: iTer99 <hoan.nguyen.16999@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate
 Filename: /debs/com.iter99.nhaccuatuivip_1.3_iphoneos-arm.deb
-Size: 2294
-MD5sum: cb133b52a85faea4546ef1978e4f5cc1
-SHA1: d26b2ca44a3ad5f03af7bc65ef5ac88b164dfaa4
-SHA256: 24e79a7e821c1ef577c96d7f65c2ddb4a8ca93dc7e169fc84c1e7916778065fb
+Size: 3138
+MD5sum: 06fdb678355b9d41d7a681c99f9ddfdd
+SHA1: 4cc5ae6d6a094568f57a39c717afaa8131f33af5
+SHA256: 453a9634cb231f6e4c18232df03e8dff1904e6847ac755dcc6466afc9915e442
 Depiction: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.nhaccuatuivip/
 Icon: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.nhaccuatuivip/DebIcon.png
 
