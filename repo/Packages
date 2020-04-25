@@ -1,0 +1,84 @@
+Package: com.iter99.gester13
+Name: Gester13
+Version: 3.0.1
+Architecture: iphoneos-arm
+Description: iPhone 8 and older feature
+Maintainer: iTer99 <hoan.nguyen.16999@gmail.com>
+Author: iTer99 <hoan.nguyen.16999@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: /debs/com.iter99.gester13_3.0.1_iphoneos-arm.deb
+Size: 4510
+MD5sum: 4120dda1dab187705f3fcb97c6b63682
+SHA1: c4de399fa65e80109401e6c3f073945c06a685e6
+SHA256: 0648978976050f4fe20603d19cff79e6499b99e9fd5815474dfe3b795fc6b893
+Depiction: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.gester13
+Icon: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.gester13/DebIcon.png
+
+Package: com.iter99.zingvip
+Name: Zing MP3 - Zing TV VIP
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Enable Zing MP3 and Zing TV VIP
+Maintainer: iTer99 <hoan.nguyen.16999@gmail.com>
+Author: iTer99 <hoan.nguyen.16999@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: /debs/com.iter99.zingvip_1.2_iphoneos-arm.deb
+Size: 2174
+MD5sum: 9b1311507536d5cbe09f809e3e79d0fa
+SHA1: 5e8563d7b3d44b1b2bda4361e13740e6120ec10d
+SHA256: ee04fb98955eeb5216031aea0b0ac7167b3506fc62335c4d10ecc7964ac1ea0d
+Depiction: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.zingvip/
+Icon: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.zingvip/DebIcon.png
+
+Package: com.iter99.nhaccuatuivip
+Name: Nhaccuatui VIP
+Version: 1.3
+Architecture: iphoneos-arm
+Description: Enable Nhaccuatui VIP
+Maintainer: iTer99 <hoan.nguyen.16999@gmail.com>
+Author: iTer99 <hoan.nguyen.16999@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: /debs/com.iter99.nhaccuatuivip_1.3_iphoneos-arm.deb
+Size: 2294
+MD5sum: cb133b52a85faea4546ef1978e4f5cc1
+SHA1: d26b2ca44a3ad5f03af7bc65ef5ac88b164dfaa4
+SHA256: 24e79a7e821c1ef577c96d7f65c2ddb4a8ca93dc7e169fc84c1e7916778065fb
+Depiction: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.nhaccuatuivip/
+Icon: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.nhaccuatuivip/DebIcon.png
+
+Package: com.iter99.redditnoads
+Name: Reddit No Ads
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Remove Ads for Reddit
+Maintainer: iTer99 <hoan.nguyen.16999@gmail.com>
+Author: iTer99 <hoan.nguyen.16999@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: /debs/com.iter99.redditnoads_0.1_iphoneos-arm.deb
+Size: 3170
+MD5sum: b518ed907e493599ea62edb644c816e0
+SHA1: fb13a6e2ddcb9956066d225ad32a3b3e0a25c8c2
+SHA256: 363a9da0dbb31b064b0ca968151366644936c46c6c5e460576f9921cd4d4c007
+Depiction: 
+Icon: 
+
+Package: com.iter99.twitternoads
+Name: Twitter No Ads
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Remove Ads for Twitter
+Maintainer: iTer99 <hoan.nguyen.16999@gmail.com>
+Author: iTer99 <hoan.nguyen.16999@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: /debs/com.iter99.twitternoads_0.1_iphoneos-arm.deb
+Size: 3550
+MD5sum: 8434952229144cde456b013fef388c00
+SHA1: d52421c9aa505587d131e7616636d2b6bd7696ec
+SHA256: 4042ad88e4bf561a44241150d1164dc39738e14fb35b7f658815780425aa3d15
+Depiction: 
+Icon: 
