@@ -25,10 +25,10 @@ Author: iTer99 <hoan.nguyen.16999@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate
 Filename: /debs/com.iter99.zingvip_1.3_iphoneos-arm.deb
-Size: 
-MD5sum: 
-SHA1: 
-SHA256: 
+Size: 2974
+MD5sum: 0d45f093e2c9ac2e01fdb67335359826
+SHA1: c027b68f52a7189e4cda1f2f61cad8fd914ce906
+SHA256: 2E9A85780853286DEEDDD8C23647141A01B8C6EA908805BC3F9D04F841E05E57
 Depiction: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.zingvip/
 Icon: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.zingvip/DebIcon.png
 
@@ -42,10 +42,10 @@ Author: iTer99 <hoan.nguyen.16999@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate
 Filename: /debs/com.iter99.nhaccuatuivip_1.4_iphoneos-arm.deb
-Size: 
-MD5sum: 
-SHA1: 
-SHA256: 
+Size: 3138
+MD5sum: 06fdb678355b9d41d7a681c99f9ddfdd
+SHA1: 4cc5ae6d6a094568f57a39c717afaa8131f33af5
+SHA256: 453A9634CB231F6E4C18232DF03E8DFF1904E6847AC755DCC6466AFC9915E442
 Depiction: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.nhaccuatuivip/
 Icon: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.nhaccuatuivip/DebIcon.png
 
@@ -80,5 +80,22 @@ Size: 3550
 MD5sum: 8434952229144cde456b013fef388c00
 SHA1: d52421c9aa505587d131e7616636d2b6bd7696ec
 SHA256: 4042ad88e4bf561a44241150d1164dc39738e14fb35b7f658815780425aa3d15
+Depiction: 
+Icon: 
+
+Package: com.iter99.screencornerx
+Name: Screen Corner X
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Change your screen corner (test on iOS 13)
+Maintainer: iTer99 <hoan.nguyen.16999@gmail.com>
+Author: iTer99 <hoan.nguyen.16999@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: /debs/com.iter99.screencornerx_1.0.1_iphoneos-arm.deb
+Size: 9294
+MD5sum:17f8d7950b014ff14ba5b30a0edc8d97
+SHA1: 44715cdb604ec167129341f6d9449db768e1ed4d
+SHA256: 8C48C6DE812F944180C64B0EC0ACCE790931458271942A51E3FBE71CBB45E062
 Depiction: 
 Icon: 
