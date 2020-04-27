@@ -94,7 +94,7 @@ Section: Tweaks
 Depends: mobilesubstrate
 Filename: /debs/com.iter99.screencornerx_1.0.1_iphoneos-arm.deb
 Size: 9294
-MD5sum:17f8d7950b014ff14ba5b30a0edc8d97
+MD5sum: 17f8d7950b014ff14ba5b30a0edc8d97
 SHA1: 44715cdb604ec167129341f6d9449db768e1ed4d
 SHA256: 8C48C6DE812F944180C64B0EC0ACCE790931458271942A51E3FBE71CBB45E062
 Depiction: 
