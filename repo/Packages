@@ -30,6 +30,8 @@ MD5sum: 0d45f093e2c9ac2e01fdb67335359826
 SHA1: c027b68f52a7189e4cda1f2f61cad8fd914ce906
 SHA256: 2E9A85780853286DEEDDD8C23647141A01B8C6EA908805BC3F9D04F841E05E57
 Depiction: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.zingvip/
+Moderndepiction: https://nguyenthienhoan.github.io/repo/depictions/JS/com.iter99.zingvip.json
+Sileodepiction: https://nguyenthienhoan.github.io/repo/depictions/JS/com.iter99.zingvip.json
 Icon: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.zingvip/DebIcon.png
 
 Package: com.iter99.nhaccuatuivip
@@ -41,12 +43,14 @@ Maintainer: iTer99 <hoan.nguyen.16999@gmail.com>
 Author: iTer99 <hoan.nguyen.16999@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate
-Filename: /debs/com.iter99.nhaccuatuivip_1.4_iphoneos-arm.deb
+Filename: /debs/com.iter99.nhaccuatuivip_1.5_iphoneos-arm.deb
 Size: 3758
 MD5sum: ec0b61adeb088799425b00747da24427
 SHA1: E2EFAA9E7FD3EC393DF27DB53CE1F0D17F218319
 SHA256: 540A55A23DAE5E5412338769C0806B0C3C15441E8BB67D2267CD45654375A5BB
 Depiction: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.nhaccuatuivip/
+Moderndepiction: https://nguyenthienhoan.github.io/repo/depictions/JS/com.iter99.nhaccuatuivip.json
+Sileodepiction: https://nguyenthienhoan.github.io/repo/depictions/JS/com.iter99.nhaccuatuivip.json
 Icon: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.nhaccuatuivip/DebIcon.png
 
 Package: com.iter99.redditnoads
@@ -63,8 +67,6 @@ Size: 3170
 MD5sum: b518ed907e493599ea62edb644c816e0
 SHA1: fb13a6e2ddcb9956066d225ad32a3b3e0a25c8c2
 SHA256: 363a9da0dbb31b064b0ca968151366644936c46c6c5e460576f9921cd4d4c007
-Depiction: 
-Icon: 
 
 Package: com.iter99.twitternoads
 Name: Twitter No Ads
@@ -80,8 +82,6 @@ Size: 3550
 MD5sum: 8434952229144cde456b013fef388c00
 SHA1: d52421c9aa505587d131e7616636d2b6bd7696ec
 SHA256: 4042ad88e4bf561a44241150d1164dc39738e14fb35b7f658815780425aa3d15
-Depiction: 
-Icon: 
 
 Package: com.iter99.screencornerx
 Name: Screen Corner X
@@ -98,4 +98,6 @@ MD5sum: 17f8d7950b014ff14ba5b30a0edc8d97
 SHA1: 44715cdb604ec167129341f6d9449db768e1ed4d
 SHA256: 8C48C6DE812F944180C64B0EC0ACCE790931458271942A51E3FBE71CBB45E062
 Depiction: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.screencornerx/
+Moderndepiction: https://nguyenthienhoan.github.io/repo/depictions/JS/com.iter99.screencornerx.json
+Sileodepiction: https://nguyenthienhoan.github.io/repo/depictions/JS/com.iter99.screencornerx.json
 Icon: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.screencornerx/DebIcon.png
