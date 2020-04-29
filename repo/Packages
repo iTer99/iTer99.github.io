@@ -34,7 +34,7 @@ Icon: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.zingvip/DebIc
 
 Package: com.iter99.nhaccuatuivip
 Name: Nhaccuatui VIP
-Version: 1.4
+Version: 1.5
 Architecture: iphoneos-arm
 Description: Enable Nhaccuatui VIP
 Maintainer: iTer99 <hoan.nguyen.16999@gmail.com>
@@ -42,10 +42,10 @@ Author: iTer99 <hoan.nguyen.16999@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate
 Filename: /debs/com.iter99.nhaccuatuivip_1.4_iphoneos-arm.deb
-Size: 3138
-MD5sum: 06fdb678355b9d41d7a681c99f9ddfdd
-SHA1: 4cc5ae6d6a094568f57a39c717afaa8131f33af5
-SHA256: 453A9634CB231F6E4C18232DF03E8DFF1904E6847AC755DCC6466AFC9915E442
+Size: 3758
+MD5sum: ec0b61adeb088799425b00747da24427
+SHA1: E2EFAA9E7FD3EC393DF27DB53CE1F0D17F218319
+SHA256: 540A55A23DAE5E5412338769C0806B0C3C15441E8BB67D2267CD45654375A5BB
 Depiction: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.nhaccuatuivip/
 Icon: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.nhaccuatuivip/DebIcon.png
 
