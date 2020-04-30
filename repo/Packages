@@ -83,20 +83,20 @@ MD5sum: 8434952229144cde456b013fef388c00
 SHA1: d52421c9aa505587d131e7616636d2b6bd7696ec
 SHA256: 4042ad88e4bf561a44241150d1164dc39738e14fb35b7f658815780425aa3d15
 
-Package: com.iter99.screencornerx
-Name: Screen Corner X
-Version: 1.0.1
+Package: com.iter99.roundme
+Name: RoundMe
+Version: 1.1
 Architecture: iphoneos-arm
-Description: Change your screen corner (test on iOS 13)
+Description: Rounded screen corner and rounded switcher
 Maintainer: iTer99 <hoan.nguyen.16999@gmail.com>
 Author: iTer99 <hoan.nguyen.16999@gmail.com>
 Section: Tweaks
-Depends: mobilesubstrate
-Filename: /debs/com.iter99.screencornerx_1.0.1_iphoneos-arm.deb
-Size: 9294
-MD5sum: 17f8d7950b014ff14ba5b30a0edc8d97
-SHA1: 44715cdb604ec167129341f6d9449db768e1ed4d
-SHA256: 8C48C6DE812F944180C64B0EC0ACCE790931458271942A51E3FBE71CBB45E062
+Depends: mobilesubstrate, preferenceloader
+Filename: /debs/com.iter99.roundme_1.1_iphoneos-arm.deb
+Size: 40,228
+MD5sum: 770f8ffa1f21874d31ae4850c561e6b4
+SHA1: 72a4ad4434dde3833c8d8560b5cba2cea34176be
+SHA256: 7F5664B12BCEE0BBAAF870FD862EE060CB19F473E2DC0D14EFA8AC2602912984
 Depiction: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.screencornerx/
 Moderndepiction: https://nguyenthienhoan.github.io/repo/depictions/JS/com.iter99.screencornerx.json
 Sileodepiction: https://nguyenthienhoan.github.io/repo/depictions/JS/com.iter99.screencornerx.json
