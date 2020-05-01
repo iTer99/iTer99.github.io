@@ -1,8 +1,4 @@
 @charset "UTF-8";
-/*!
- * Mobirise v4 theme (https://mobirise.com/)
- * Copyright 2017 Mobirise
- */
 section {
   background-color: #eeeeee;
 }
@@ -1282,4 +1278,7 @@ body {
 	padding: 0;
 	top: 0;
 	left: -2400px;
+}
+.color-subtile {
+  color:#999;
 }
