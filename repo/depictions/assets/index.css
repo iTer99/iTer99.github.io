@@ -219,6 +219,18 @@ a {
     text-decoration: none;
 }
 
+hr {
+	margin-top: 15px;
+	margin-bottom: 15px;
+	border-radius: 25px;
+	border: 0;
+	clear:both;
+	display:block;
+	width: 100%;               
+	background-color:#f2f2f2;
+	height: 4px;
+
+
 .table-btn, .table-btn > div {
     padding-top: 10px;
     padding-bottom: 10px;
