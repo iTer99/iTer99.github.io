@@ -29,7 +29,7 @@
     }
 }
 
-h1, h2, h3, h5, h6, p {
+h1, h2, h5, h6, p {
     margin: 2px;
 }
 
@@ -142,7 +142,14 @@ h1, h2, h3, h5, h6, p {
     float: right;
 }
 
+p1 {
+    margin: 40px;
+    font-size: 20px;
+}
+
 h3 {
+    color: #999;
+    font-size: 25px;
     margin-top: 15px;
     margin-bottom: 15px;
 }
