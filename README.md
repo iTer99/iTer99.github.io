@@ -1,4 +1,4 @@
-<img src="https://nguyenthienhoan.github.io/repo/profile.png?v=3&s=200" alt="iTer99" width="300" height="300">
+<img src="https://nguyenthienhoan.github.io/repo/Profile.png?v=3&s=200" alt="iTer99" width="300" height="300">
 
 ## FAQ
 - **What are you doing here ?**
