@@ -15,6 +15,23 @@ SHA256: 0648978976050f4fe20603d19cff79e6499b99e9fd5815474dfe3b795fc6b893
 Depiction: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.gester13
 Icon: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.gester13/DebIcon.png
 
+Package: com.iter99.gester13
+Name: Gester13
+Version: 3.0.1
+Architecture: iphoneos-arm
+Description: iPhone 8 and older feature
+Maintainer: iTer99 <hoan.nguyen.16999@gmail.com>
+Author: iTer99 <hoan.nguyen.16999@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: /debs/com.iter99.gester13_3.0.1-1debug_iphoneos-arm.deb
+Size: 6714
+MD5sum: 32af2920b0184475699d2d84e14b9114
+SHA1: B1A87DDEE10E1EB04E6594805BC4B2CB8B4FD16A 
+SHA256: 921D06594F8368D8555EBAE4CFBF0D56B343F9E287FCCA50D9013224DDC9E86C
+Depiction: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.gester13
+Icon: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.gester13/DebIcon.png
+
 Package: com.iter99.zingvip
 Name: Zing MP3 - Zing TV VIP
 Version: 1.3
@@ -30,8 +47,8 @@ MD5sum: 0d45f093e2c9ac2e01fdb67335359826
 SHA1: c027b68f52a7189e4cda1f2f61cad8fd914ce906
 SHA256: 2E9A85780853286DEEDDD8C23647141A01B8C6EA908805BC3F9D04F841E05E57
 Depiction: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.zingvip/
-Moderndepiction: https://nguyenthienhoan.github.io/repo/depictions/JS/com.iter99.zingvip.json
-Sileodepiction: https://nguyenthienhoan.github.io/repo/depictions/JS/com.iter99.zingvip.json
+Moderndepiction: 
+Sileodepiction: 
 Icon: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.zingvip/DebIcon.png
 
 Package: com.iter99.nhaccuatuivip
@@ -49,8 +66,8 @@ MD5sum: ec0b61adeb088799425b00747da24427
 SHA1: E2EFAA9E7FD3EC393DF27DB53CE1F0D17F218319
 SHA256: 540A55A23DAE5E5412338769C0806B0C3C15441E8BB67D2267CD45654375A5BB
 Depiction: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.nhaccuatuivip/
-Moderndepiction: https://nguyenthienhoan.github.io/repo/depictions/JS/com.iter99.nhaccuatuivip.json
-Sileodepiction: https://nguyenthienhoan.github.io/repo/depictions/JS/com.iter99.nhaccuatuivip.json
+Moderndepiction: 
+Sileodepiction: 
 Icon: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.nhaccuatuivip/DebIcon.png
 
 Package: com.iter99.redditnoads
@@ -85,19 +102,19 @@ SHA256: 4042ad88e4bf561a44241150d1164dc39738e14fb35b7f658815780425aa3d15
 
 Package: com.iter99.roundme
 Name: RoundMe
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
-Description: Rounded screen corner and rounded switcher
+Description: Rounded screen corner and rounded app switcher
 Maintainer: iTer99 <hoan.nguyen.16999@gmail.com>
 Author: iTer99 <hoan.nguyen.16999@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader
-Filename: /debs/com.iter99.roundme_1.1_iphoneos-arm.deb
-Size: 40228
-MD5sum: 770f8ffa1f21874d31ae4850c561e6b4
-SHA1: 72a4ad4434dde3833c8d8560b5cba2cea34176be
-SHA256: 7F5664B12BCEE0BBAAF870FD862EE060CB19F473E2DC0D14EFA8AC2602912984
+Filename: /debs/com.iter99.roundme_1.2_iphoneos-arm.deb
+Size: 41902
+MD5sum: 88c58d238c6b2f4656c75af8dab29cde
+SHA1: cca6ba2b12f4b2c195cee2d04d0c530e563abd0a
+SHA256: 104A52A1B9AAA20EFD0AF194B5A4308CD88229C69EC9938B826D7C2BC0E459F1
 Depiction: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.roundme/
-Moderndepiction: https://nguyenthienhoan.github.io/repo/depictions/JS/com.iter99.roundme.json
-Sileodepiction: https://nguyenthienhoan.github.io/repo/depictions/JS/com.iter99.roundme.json
+Moderndepiction: 
+Sileodepiction: 
 Icon: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.roundme/DebIcon.png
