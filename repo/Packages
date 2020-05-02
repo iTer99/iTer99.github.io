@@ -17,7 +17,7 @@ Icon: https://nguyenthienhoan.github.io/repo/depictions/com.iter99.gester13/DebI
 
 Package: com.iter99.gester13
 Name: Gester13
-Version: 3.0.1
+Version: 3.0.1-1debug
 Architecture: iphoneos-arm
 Description: iPhone 8 and older feature
 Maintainer: iTer99 <hoan.nguyen.16999@gmail.com>
