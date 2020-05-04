@@ -12,8 +12,8 @@ body {
 	content: "";
 	display: inline-block;
 	position: relative;
-	width: 5px;
-	height: 60px;
+	width: 40px;
+	height: 5px;
 	background: #ffffff;
 	animation: cursor 1s linear infinite;
 }
