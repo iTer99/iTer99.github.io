@@ -29,7 +29,7 @@
     }
 }
 
-h1, h2, h5, h6, p {
+h3, h5, h6, p {
     margin: 2px;
 }
 
@@ -119,8 +119,19 @@ h1, h2, h5, h6, p {
     float: left;
 }
 
+.profile > img {
+    border-radius: 20px;
+    width: 55px;
+    height: 55px;
+    float: left;
+}
 .package_info {
     margin-left: 90px;
+}
+
+.profile_info {
+    margin-left: 70px;
+    font-size: 14px;
 }
 
 .package_name {
@@ -130,12 +141,12 @@ h1, h2, h5, h6, p {
 
 .package_caption {
     margin-top: 7px;
-    color: #999;
+    color: #808080;
 }
 
 .cell > .title {
     float: left;
-    color: #999;
+    color: #808080;
 }
 
 .cell > .text {
@@ -146,10 +157,20 @@ p1 {
     font-size: 20px;
 }
 
-h3 {
-    color: #999;
+p2 {
+    font-size: 13px;
+    color: #808080;
+}
+
+h1 {
+    font-size: 10;
+}
+
+
+h2 {
+    color: #808080;
     font-size: 25px;
-    margin-top: 15px;
+    margin-top: 12px;
     margin-bottom: 15px;
 }
 
@@ -160,8 +181,8 @@ hr {
 	border-radius: 25px;
 	border: 0;
 	width: 100%;               
-	background-color:#999;
-	height: 4px;
+	background-color:#808080;
+	height: 3px;
 }
 
 .footer {
@@ -210,7 +231,7 @@ hr {
     width: 50%;
     display:inline;
     text-align: center;
-    color: #999;
+    color: #808080;
     font-weight: 500;
     padding-bottom: 10px;
     cursor: pointer;
@@ -220,15 +241,14 @@ hr {
     margin-bottom: 18px;
 }
 
-h4 {
-    font-size:20px;
-    color: #999;
+h3 {
+    font-size: 22px;
+
 }
 
 a {
     text-decoration: none;
 }
-
 
 .table-btn, .table-btn > div {
     padding-top: 10px;

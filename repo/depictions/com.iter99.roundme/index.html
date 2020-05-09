@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 
@@ -10,95 +9,150 @@
     <link rel="stylesheet" type="text/css" href="../assets/index.css">
     <style>a, .tint, .table-btn:after {color: #a19191} .active {color: #a19191;border-bottom: 2px solid #a19191;}</style>
     <script src="../assets/index.js"></script>
-    <meta name="theme-color" content="#bce9fd">
+    <meta name="theme-color" content="#a19191">
 </head>
 
 <body>
     <div class="body">
         <div style="background-image: url(pictures/banner.png)" class="banner_underlay"></div>
-        <div class="package package_head">
+
+        <div class="package">
             <img src="DebIcon.png">
             <div class="package_info">
-                <h1 class="package_name">RoundMe</h1>
+                <h class="package_name">RoundMe</h>
                 <p class="package_caption">iTer99</p>
             </div>
         </div>
+
         <div class="nav">
+
             <div class="nav_btn active tweak_info_btn" onclick="swap('.changelog','.tweak_info');">Details</div>
-            <div class="nav_btn changelog_btn" onclick="swap('.tweak_info','.changelog');">Changelog</div>
+            <div class="nav_btn changelog_btn" onclick="swap('.tweak_info','.changelog');">Full changelog</div>
         </div>
+
         <div class="tweak_info">
-            <p class="compatibility"><b>Compatibility:</b>This package is compatible with all iOS version.</p>
+
+            <center><p class="compatibility"><b>Compatibility:</b>This package is compatible with all iOS version.</p></center>
+
+            <hr>
+
+            <h2>What's New</h2>
+            <p>
+                <p1>Version 1.4</p1>
+                <ul>
+                    <br>
+                    <li>Add rounded dock</li>
+                    <li>Support floaty dock</li>
+                </ul><br>
+                <p2>9 May 2020</p2>               
+            </p>
+
+            <hr>
+
+            <h2>Screenshots</h2>
             <div class="scroll_view">
                 <img class="img_card" src="pictures/scrn1.png">
                 <img class="img_card" src="pictures/scrn2.png">
 				<img class="img_card" src="pictures/scrn3.png">
             </div>
-            <div class="md_view">
-			<hr>
-            <h3>About</h3>
-                <p>
-                    <p1>A simple tweak make rounded</p1>
-                    <ul>
-                        <li>Screen Corner</li>
-                        <li>App Switcher</li>
-                        <li>Widget</li>
-                        <li>Notification</li>
-                        <li>Media Controls</li>
-						<li>Dock</li>
-                    </ul>               
-                </p>
-            </div>
-			<hr>
-            <h3>Information</h3>
-            <div class="table">
+
+            <hr>
+            
+            <h2>About</h2>
+            <p>
+                <p3>This is a simple tweak make rounded something, you can view source just scroll down</p3>
+                <ul>
+                    <br>
+                    <li>Screen Corner</li>
+                    <li>App Switcher</li>
+                    <li>Widget</li>
+                    <li>Notification</li>
+                    <li>Media Controls</li>
+					<li>Dock</li>
+                 </ul>               
+            </p>
+
+            <hr>
+            
+            <h2>Information</h2>
                 <div class="cell">
                     <div class="title">Developer</div>
                     <div class="text">iTer99</div>
                     <br><br>
                 </div>
+
                 <div class="cell">
                     <div class="title">Last version</div>
                     <div class="text">1.4</div>
                     <br><br>
                 </div>
+
                 <div class="cell">
                     <div class="title">Compatibility</div>
                     <div class="text">11.0 to 13.5</div>
                     <br><br>
                 </div>
+                
                 <div class="cell">
                     <div class="title">Section</div>
                     <div class="text">Tweaks</div>
                     <br><br>
                 </div>
-            </div>
-            <a href="https://github.com/iTer99/RoundMe" class="table-btn">
-                <div>Public Source Code</div>
-            </a>
+
+            <a href="https://github.com/iTer99/RoundMe" class="table-btn"><div>Source code</div></a>
+
         </div>
+
+        <h2>Changlog</h2>
         <div class="changelog">
             <div class="changelog_entry">
-			    <h4>Version 1.4</h4>
-                <div class="md_view"><p>Add rounded dock</p>
+
+			    <h3>Version 1.4</h3>
+                <p>- Add rounded dock</p>
                 <hr>
-                <h4>Version 1.3</h4>
-                <div class="md_view"><p>Add rounded widget, notification, media controls</p>
+
+                <h3>Version 1.3</h3>
+                <p>- Add rounded widget, notification, media controls</p>
                 <hr>
-                <h4>Version 1.2</h4>
-                <div class="md_view"><p>Update for arm64e devices</p>
+
+                <h3>Version 1.2</h3>
+                <p>- Support for arm64e devices</p>
                 <hr>
-                <h4>Version 1.1</h4>
-                <div class="md_view"><p>Add rounded app switcher</p>
+
+                <h3>Version 1.1</h3>
+                <p>- Add rounded app switcher</p>
                 <hr>
-                <h4>Version 1.0</h4>
-                <div class="md_view"><p>First release</p>
-				<hr>
+
+                <h3>Version 1.0</h3>
+                <p>- First release</p>
+                
             </div>
-</div>
         </div>
+
+        <hr>
+
+        <h2>Developer</h2>
+        <div class="profile">
+            <img src="../../Profile.png">
+            <div class="profile_info">
+                <h1 class="profile">iTer99</h1>
+                <p class="profile">Nguyễn Thiện Hoàn</p>
+            </div>
+        </div>
+
+        <br><br>
+        
+        <a href="https://iTer99.github.io/repo/" class="table-btn"><div>iTer99's Repo</div></a>
+        <a href="https://facebook.com/nguyenthienhoann/" class="table-btn"><div>Facebook</div></a>
+        <a href="https://twitter.com/ngthienhoan/" class="table-btn"><div>Twitter</div></a>
+        <a href="mailto:hoan.nguyen.16999@gmail.com" class="table-btn"><div>Gmail</div></a>
+
+        </div>
+
         <div class="caption center footer"></div>
     </div>
 </body>
+
 <script>compatible("11.0","13.5","iOS 11.0 to 13.5");externalize()</script>
+
 </html>
