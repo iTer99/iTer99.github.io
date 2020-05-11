@@ -18,6 +18,7 @@
         width: calc(100vw - 60px);
     }
 }
+
 @media only screen and (min-width: 601px) {
     .body {
         width: 500px;
@@ -89,49 +90,19 @@ h3, h5, h6, p {
     text-align: center;
 }
 
-.left_float {
-    float: left;
-}
-
-.right_float { 
-    float: right;
-}
-
-.add_sileo {
-    font-size: 2em;
-    cursor: pointer;
-    text-decoration: none;
-}
-
-.add_sileo:hover, a:hover {
-    opacity: 0.8;
-    cursor: pointer;
-}
-
 .package {
     margin-bottom: 40px;
 }
 
 .package > img {
-    border-radius: 20px;
+    border-radius: 15px;
     width: 75px;
     height: 75px;
     float: left;
 }
 
-.profile > img {
-    border-radius: 20px;
-    width: 55px;
-    height: 55px;
-    float: left;
-}
 .package_info {
     margin-left: 90px;
-}
-
-.profile_info {
-    margin-left: 70px;
-    font-size: 14px;
 }
 
 .package_name {
@@ -146,7 +117,7 @@ h3, h5, h6, p {
 
 .cell > .title {
     float: left;
-    color: #808080;
+    color: #333333;
 }
 
 .cell > .text {
@@ -166,14 +137,12 @@ h1 {
     font-size: 10;
 }
 
-
 h2 {
     color: #808080;
     font-size: 25px;
     margin-top: 12px;
     margin-bottom: 15px;
 }
-
 
 hr {
 	margin-top: 15px;
@@ -189,15 +158,6 @@ hr {
     margin-top: 20px;
 }
 
-.subtle_link, .subtle_link > div > div, .subtle_link > div > div > p {
-    text-decoration: none;
-    color: black;
-}
-
-.subtle_link:hover, .subtle_link > *:hover {
-    opacity: 0.8;
-}
-
 .green {
     color: #00b90c;
 }
@@ -211,7 +171,7 @@ hr {
     background-position: center;
     height: 200px;
     width: 100%;
-    border-radius: 20px;
+    border-radius: 10px;
     z-index: -2;
     margin-bottom: 20px;
     top: 0;
@@ -256,8 +216,8 @@ a {
 }
 
 .table-btn:after {
-    content: "›";
-    font-size:30px;
+    content: "››";
+    font-size: 35px;
     transform: translateY(-40px);
     float: right;
 }
