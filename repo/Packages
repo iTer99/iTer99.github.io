@@ -1,17 +1,17 @@
 Package: com.iter99.gester13
 Name: Gester13
-Version: 3.1
+Version: 3.2
 Architecture: iphoneos-arm
-Description: iPhone 8 and older feature
+Description: Gesture iPhone X for iPhone 8 and older device.
 Maintainer: iTer99 <hoan.nguyen.16999@gmail.com>
 Author: iTer99 <hoan.nguyen.16999@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate
-Filename: /debs/com.iter99.gester13_3.1_iphoneos-arm.deb
-Size: 4172
-MD5sum: 3291fd5440703a8194163f812186aefa
-SHA1: 2A34D228110F80A5DEFC19AFF0CF90D9616952BE
-SHA256: 2A558757893FD06D35A2EECB9037607D245FE3ECE887AD76AEA3352D8A0A8589
+Filename: /debs/com.iter99.gester13_3.2_iphoneos-arm.deb
+Size: 4200
+MD5sum: 655385C8CE539A7DEF95EFE77EDB66E2
+SHA1: AEFA00D25C2AA2893EAB3605D4D2B05C0435C8E3
+SHA256: 1D48A2E75EE4AE41814B113C6B922DF0E30731441EF6B38F605C4052D65C1311
 
 Package: com.iter99.zingvip
 Name: Zing MP3 - Zing TV VIP
