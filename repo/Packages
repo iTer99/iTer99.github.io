@@ -1,14 +1,14 @@
 Package: com.iter99.gester13
 Name: Gester13
-Version: 3.2
+Version: 3.3
 Architecture: iphoneos-arm
 Description: Gesture iPhone X for iPhone 8 and older device.
 Maintainer: iTer99 <hoan.nguyen.16999@gmail.com>
 Author: iTer99 <hoan.nguyen.16999@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate
-Filename: /debs/com.iter99.gester13_3.2_iphoneos-arm.deb
-Size: 4200
+Filename: /debs/com.iter99.gester13_3.3_iphoneos-arm.deb
+Size: 4450
 MD5sum: 078e787abe923cdc7045386fc82d247e
 SHA1: 51531da54e3fbabca4928397b968bb2da6bcd4c7
 SHA256: 0eabee74aa118b6f002f35c9e655832c3287d39cf35af37635fb20f5a04f6c44
