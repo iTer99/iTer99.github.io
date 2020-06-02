@@ -41,28 +41,27 @@ animation-delay: 1.2s;
 animation: fade 2s infinite;
 animation-fill-mode: both;
 animation-delay: 0ms;
-
 }
 
 .home .container h1 #d2 {
 animation: fade 2s infinite;
 animation-fill-mode: both;
 animation-delay: 1s;
-
 }
 
 @keyframes fade {
 0% {
-        opacity: 0;
+opacity: 0;
 }
 
 50% {
-        opacity: 1;
+opacity: 1;
 }
 
 100% {
-        opacity: 0;
+opacity: 0;
 }
+
 }
 
 @keyframes fade2 {
@@ -86,7 +85,7 @@ html, body {
 }
 
 .home .container h1 {
-color: #000;
+color: rgb(153, 0, 255);
 }
 
 }
@@ -97,7 +96,7 @@ background-color: #000;
 }
 
 .home .container h1 {
-color: #fff;
+color: rgb(153, 0, 255);
 }
 
 }
