@@ -74,9 +74,9 @@ Author: iTer99 & Kodey Thomas <hoan.nguyen.16999@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
 Filename: /debs/com.iter99.spotifyblue_1.4_iphoneos-arm.deb
-Size: 54796
-MD5sum: 56e4c50e7c05a66284d863caaac249cd
-SHA1: c88c6d60624718f2db77fcda53a1a0d52cb38b1c
-SHA256: deef75bf2b45bde1f75064e68a090eb117aac9c2b158ff70348fa758e36e4d5a
+Size: 54758
+MD5sum: 3f2457bc1ee187df623b90a6672d2fd3
+SHA1: 20dd0d504a52971f9e689b24114ee4c89c614782
+SHA256: b5d73359b1b28bcc6e9507d84a620f3618bd3ea78453de64efc5c506880c0c67
 Depiction: https://iTer99.github.io/repo/depictions/com.iter99.spotifyblue/
 Icon: https://iTer99.github.io/repo/depictions/com.iter99.spotifyblue/DebIcon.png
