@@ -83,7 +83,7 @@ html, body {
 }
 
 .home .container h1 {
-color: rgb(153, 0, 255);
+color: #000
 }
 
 }
@@ -94,7 +94,7 @@ background-color: #000;
 }
 
 .home .container h1 {
-color: rgb(153, 0, 255);
+color: #fff;
 }
 
 }
