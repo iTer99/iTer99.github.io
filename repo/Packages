@@ -63,3 +63,20 @@ SHA1: acf7f7fb38749df48f651b35d4add334d87c5421
 SHA256: 8f3ebab1371835af944a75f20d09a4dd1b506621db8863106b06d69aca26b380
 Depiction: https://iTer99.github.io/repo/depictions/com.iter99.roundme/
 Icon: https://iTer99.github.io/repo/depictions/com.iter99.roundme/DebIcon.png
+
+Package: com.iter99.spotifyblue
+Name: SpotifyBlue
+Version: 1.4
+Architecture: iphoneos-arm
+Description: Opens Music Apps when you Connect a Bluetooth audio device.
+Maintainer: iTer99 <hoan.nguyen.16999@gmail.com>
+Author: iTer99 & Kodey Thomas<hoan.nguyen.16999@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
+Filename: /debs/com.iter99.roundme_1.4_iphoneos-arm.deb
+Size: 54796
+MD5sum: 56e4c50e7c05a66284d863caaac249cd
+SHA1: c88c6d60624718f2db77fcda53a1a0d52cb38b1c
+SHA256: deef75bf2b45bde1f75064e68a090eb117aac9c2b158ff70348fa758e36e4d5a
+Depiction: https://iTer99.github.io/repo/depictions/com.iter99.spotifyblue/
+Icon: https://iTer99.github.io/repo/depictions/com.iter99.roundme/DebIcon.png
