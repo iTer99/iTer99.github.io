@@ -1,4 +1,4 @@
-<img src="https://iTer99.github.io/repo/Profile.png?v=3&s=200" alt="iTer99" width="300" height="300">
+<img src="https://iTer99.github.io/repo/assets/images/avatar.png" alt="iTer99" width="300" height="300">
 
 ## Info:
 
