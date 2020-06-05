@@ -70,10 +70,10 @@ Version: 1.4
 Architecture: iphoneos-arm
 Description: Opens Music Apps when you Connect a Bluetooth audio device.
 Maintainer: iTer99 <hoan.nguyen.16999@gmail.com>
-Author: iTer99 & Kodey Thomas<hoan.nguyen.16999@gmail.com>
+Author: iTer99 & Kodey Thomas <hoan.nguyen.16999@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
-Filename: /debs/com.iter99.roundme_1.4_iphoneos-arm.deb
+Filename: /debs/com.iter99.spotifyblue_1.4_iphoneos-arm.deb
 Size: 54796
 MD5sum: 56e4c50e7c05a66284d863caaac249cd
 SHA1: c88c6d60624718f2db77fcda53a1a0d52cb38b1c
