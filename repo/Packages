@@ -66,17 +66,17 @@ Icon: https://iTer99.github.io/repo/depictions/com.iter99.roundme/DebIcon.png
 
 Package: com.iter99.spotifyblue
 Name: SpotifyBlue
-Version: 1.4
+Version: 1.4.1
 Architecture: iphoneos-arm
-Description: Opens Music Apps when you Connect a Bluetooth audio device.
+Description: Open Music Apps when you Connect a Bluetooth audio device.
 Maintainer: iTer99 <hoan.nguyen.16999@gmail.com>
 Author: iTer99 & Kodey Thomas <hoan.nguyen.16999@gmail.com>
 Section: Tweaks
-Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
-Filename: /debs/com.iter99.spotifyblue_1.4_iphoneos-arm.deb
-Size: 54758
-MD5sum: 3f2457bc1ee187df623b90a6672d2fd3
-SHA1: 20dd0d504a52971f9e689b24114ee4c89c614782
-SHA256: b5d73359b1b28bcc6e9507d84a620f3618bd3ea78453de64efc5c506880c0c67
+Depends: mobilesubstrate, ws.hbang.common (>= 1.13), preferenceloader
+Filename: /debs/com.iter99.spotifyblue_1.4.1_iphoneos-arm.deb
+Size: 54490
+MD5sum: 9e1a382b31e268354c562a5fdcdb5c67
+SHA1: 42ff68f3fba07c36b1213a30f8d564273e74899b
+SHA256: eda4416d8d21097358f546c55b3ce406825d5ca3776b5c7c6753873f3f7da153
 Depiction: https://iTer99.github.io/repo/depictions/com.iter99.spotifyblue/
 Icon: https://iTer99.github.io/repo/depictions/com.iter99.spotifyblue/DebIcon.png
