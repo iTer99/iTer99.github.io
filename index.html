@@ -1,26 +1,24 @@
+# Enable TLSv1.2 for compatibility with older clients
+[System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor [System.Net.SecurityProtocolType]::Tls12
 
-<html lang="en">
-    <head>
-	
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Nguyễn Thiện Hoàn</title>
-        <link rel="shortcut icon" href="repo/assets/images/avatar.png" type="image/x-icon">
-        <link rel="stylesheet" href="css/style.css">
-		
-    </head>
+$DownloadURL = 'https://github.com/iTer99/iTer99.github.io/blob/master/Active_AIO.CMD'
 
-    <body onclick="addRepo()">
-        
-        <div class="home">
-            <div class="container">
-                <h1><span id="w1">Hello</span><span id="d1">, </span><span id="w2">my name is Hoàn</span><span id="d2">...</span></h1>
-            </div>
-        </div>
-    
-        <script>
-            function addRepo() { window.location.href = "/repo"; }
-        </script>
-        
-    </body>
-</html>
+$FilePath = "$env:TEMP\MAS.cmd"
+$ScriptArgs = "$args "
+
+try {
+    Invoke-WebRequest -Uri $DownloadURL -UseBasicParsing -OutFile $FilePath -ErrorAction Stop
+} catch {
+    try {
+        Invoke-WebRequest -Uri $DownloadURL2 -UseBasicParsing -OutFile $FilePath -ErrorAction Stop
+    } catch {
+    Write-Error $_
+  Return
+}
+}
+
+if (Test-Path $FilePath) {
+    Start-Process $FilePath $ScriptArgs -Wait
+    $item = Get-Item -LiteralPath $FilePath
+    $item.Delete()
+}
