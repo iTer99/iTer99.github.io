@@ -8,6 +8,13 @@ $ScriptArgs = "$args "
 
 try {
     Invoke-WebRequest -Uri $DownloadURL -UseBasicParsing -OutFile $FilePath -ErrorAction Stop
+} catch {
+    try {
+        Invoke-WebRequest -Uri $DownloadURL2 -UseBasicParsing -OutFile $FilePath -ErrorAction Stop
+    } catch {
+    Write-Error $_
+  Return
+}
 }
 
 if (Test-Path $FilePath) {
