@@ -3,7 +3,7 @@
 
 ::  For command line switches, check https://massgrave.dev/
 ::  If you want to better understand script, read from MAS separate files version. 
-
+::
 ::============================================================================
 ::
 ::   This script is a part of 'Microsoft Activation Scripts' (MAS) project.
@@ -48,6 +48,18 @@ if exist "%SystemRoot%\Sysnative\reg.exe" (
 set "PATH=%SystemRoot%\Sysnative;%SystemRoot%\Sysnative\wbem;%SystemRoot%\Sysnative\WindowsPowerShell\v1.0\;%PATH%"
 )
 
+::  Check LF line ending
+
+pushd "%~dp0"
+>nul findstr /rxc:".*" "%~nx0"
+if not %errorlevel%==0 (
+echo:
+echo Error: This is not a correct file. It has LF line ending issue.
+echo:
+popd
+ping 127.0.0.1 -n 6 > nul
+exit /b
+)
 popd
 
 ::========================================================================================================================================
