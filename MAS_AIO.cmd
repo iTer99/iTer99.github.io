@@ -215,6 +215,7 @@ echo:             [6] Help
 echo:             [0] Exit                                   
 echo:       ______________________________________________________________
 echo:
+echo:                             <3 Nguyen Thien Hoan <3
 call :_color2 %_White% "          " %_Green% "Enter a menu option in the Keyboard [1,2,3,4,5,6,0] :"
 choice /C:1234560 /N
 set _erl=%errorlevel%
